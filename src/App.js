@@ -10,6 +10,13 @@ import React from "react";
 // import StudentCard from "./components/c9/StudentCard";
 // import Shop from "./components/c10/Shop";
 // import RandomImage from "./components/c11/RandomImage";
+// import Sairler from "./components/c12/Sairler";
+// import Paragraph from "./components/c13/Paragraph";
+// import Listele from "./components/c14/Listele";
+// import Countries from "./components/c15/Countries";
+
+
+
 
 const App = () => {
   return (
@@ -26,9 +33,13 @@ const App = () => {
       <StudentCard/>
       <Shop/>
       <RandomImage/>
+      <Sairler/>
+      <Paragraph/>
+      <Listele/>
+      <Countries/> 
       */}
-     
       
+  
 
     </div>
   );

@@ -1,0 +1,23 @@
+.kartlar{
+    margin: 5rem auto;
+    text-align: center;
+    padding-bottom: 2rem;
+    position: relative;
+
+    img{
+        height: 300px;
+        object-fit: cover;
+    }
+
+
+    .butonlar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 1rem;
+        gap: 2rem;
+        position: absolute;
+        text-align: center;
+    }
+
+}
