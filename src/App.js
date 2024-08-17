@@ -14,6 +14,9 @@ import React from "react";
 // import Paragraph from "./components/c13/Paragraph";
 // import Listele from "./components/c14/Listele";
 // import Countries from "./components/c15/Countries";
+// import BusinessInfo from "./components/c16/BusinessInfo";
+// import PersonInfo from "./components/c17/PersonInfo";
+import MainMovie from "./components/c18/MainMovie";
 
 
 
@@ -37,9 +40,12 @@ const App = () => {
       <Paragraph/>
       <Listele/>
       <Countries/> 
+      <BusinessInfo/>
+      <PersonInfo/>
+        
       */}
-      
-  
+     <MainMovie/>
+
 
     </div>
   );
